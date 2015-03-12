@@ -1,8 +1,4 @@
 En un lugar de la Mancha
 de cuyo nombre
-<<<<<<< HEAD
 no
-=======
-n
->>>>>>> 22ec663c791df36ca2d812dba5e02522848f7a4a
 quiero acordarme
